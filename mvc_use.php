@@ -1,5 +1,6 @@
-// Test for commit
-// M1
+//M000
+
+
 <?php
 spl_autoload_register(function($classname) {
     $classname = str_replace('\\','/', $classname);
